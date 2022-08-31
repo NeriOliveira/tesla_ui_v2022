@@ -17,4 +17,3 @@ Patrick Neri de Oliveira
 - [Tesla Smart App (dribbble) by Gavrisov Dmitri](https://dribbble.com/shots/10196092-Tesla-Smart-App)
 - [Source Code by bingecode15 - 2020 version](https://github.com/bingecode15/Tesla_Cybertruck_App)
 - [Video about Code from bingecode15 - 2020 version](https://youtu.be/17cKIc4wllg)
-- 
